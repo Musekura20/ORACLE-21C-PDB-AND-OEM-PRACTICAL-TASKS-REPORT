@@ -1,2 +1,2 @@
-# ORACLE-21C-PDB-AND-OEM-PRACTICAL-TASKS-REPORT
-ORACLE 21C PLUGGABLEDATABASE AND ORACLE ENTERPRISE MANAGER PRACTICAL TASKS REPORT
+# Oracle-21c-PDB-and-OEM-practicle-tasks
+This repository contains my oracle 21c practical tasks including Creating and deleting PDB and also configuring OEM
